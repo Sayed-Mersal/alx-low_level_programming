@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry poinit
+ * main - Entry point
  *
- * Description: A C program that prints the size of typesn
+ * Description: A C program that prints using sizeof
  *
  * Return 0 (Success)
 */
