@@ -3,12 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
- * Description: Positive anything is better than negative nothing
+ * main - Entry piont
  *
  * Return : 0 (Success)
 */
+
 int main(void)
 {
 	int n;
