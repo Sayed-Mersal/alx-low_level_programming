@@ -22,7 +22,7 @@ int main(void)
 		putchar(Alph);
 		Alph++;
 	}
-	putchar('\n')
+	putchar('\n');
 
 	return (0);
 }
