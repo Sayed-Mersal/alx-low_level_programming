@@ -10,8 +10,10 @@ int main(void)
 {
 	char alph = 'a';
 
-	while (alph <= 'z' && alph != 'q' && alph != 'e')
+	while (alph <= 'z')
 	{
+		if (alph == 'e' || alph == 'q')
+			alph++;
 		putchar(alph);
 		alph++;
 	}
