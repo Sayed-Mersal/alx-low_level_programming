@@ -11,13 +11,13 @@ int main(void)
 	char alph = 'a';
 	char Alph = 'A';
 
-	while (alph <= 'a')
+	while (alph <= 'z')
 	{
 		putchar(alph);
 		alph++;
 	}
 
-	while (Alph <= 'A')
+	while (Alph <= 'Z')
 	{
 		putchar(Alph);
 		Alph++;
