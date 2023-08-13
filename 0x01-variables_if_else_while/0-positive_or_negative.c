@@ -5,7 +5,9 @@
 /**
  * main - Entry piont
  *
- * Return : 0 (Success)
+ * Description:C program: assigns random number to variable 'n' on execution.
+ *
+ * Return: 0 (Success)
 */
 
 int main(void)
