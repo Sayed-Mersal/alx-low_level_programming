@@ -3,8 +3,6 @@
 /**
  * main - Entry point
  *
- * Description: A C program that prints using sizeof
- *
  * Return: Always 0 (Success)
 */
 
