@@ -25,7 +25,7 @@ double _sqrt(double x)
 
 /**
  * largest_prime_factor - finds and prints the largest
- * 			prime factor of number (num)
+ *			prime factor of number (num)
  *
  * @num: number to find
 */
@@ -38,7 +38,7 @@ void largest_prime_factor(long int num)
 	while (num % 2 == 0)
 		num = num / 2;
 
-	for (prmNu = 3; prmNu <= _sqrt(num); prmNu +=2)
+	for (prmNu = 3; prmNu <= _sqrt(num); prmNu += 2)
 	{
 		while (num % prmNu == 0)
 		{
