@@ -1,6 +1,11 @@
 #include "main.h"
 
-/***/
+/**
+ * more_numbers - print 0 - 14 ten times and you
+ *			can use _putchar three times
+ *
+ * Return: Always 0 (Success)
+*/
 
 void more_numbers(void)
 {
