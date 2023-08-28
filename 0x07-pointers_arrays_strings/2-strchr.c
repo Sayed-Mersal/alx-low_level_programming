@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * *_strchar - fils memory with a constant byte
+ * *_strchr - fils memory with a constant byte
  * @s: pointer to put the constant
  *@c: constant
  * Return: pointer to s
 */
 
-char *_strchar(char *s, char c)
+char *_strchr(char *s, char c)
 {
 	int itr;
 
