@@ -19,5 +19,5 @@ char *_strchar(char *s, char c)
 		}
 	}
 
-	return ('\0')
+	return ('\0');
 }
