@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+
 /**
  * *_memset - fills memory with a constant byte
  * @s: pointer to put the constant
@@ -35,6 +36,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 
 	if (m == 0)
 		return (NULL);
+
 	_memset(m, 0, sizeof(int) * nmemb);
 
 	return (m);
